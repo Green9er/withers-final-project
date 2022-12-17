@@ -1,0 +1,27 @@
+<!DOCTYPE>
+<html lang="en">
+    <head>
+        <title>Botw_review</title>
+        <style>
+            .mainpage{
+            background-color: antiquewhite;
+            color: black;
+            }
+            .title{
+                color: black;
+                font: bold;
+                font-family: 'Times New Roman', Times, serif;
+                font-size: 100px;
+                text-align: center;
+                justify-content: center;
+                width: auto;
+                height: auto;
+                background-color: lightgreen;
+            }
+        </style>
+    </head>
+</html>
+
+<body class="mainpage">
+
+</body>
