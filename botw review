@@ -1,27 +1,73 @@
-<!DOCTYPE>
-<html lang="en">
-    <head>
-        <title>Botw_review</title>
-        <style>
-            .mainpage{
-            background-color: antiquewhite;
-            color: black;
-            }
-            .title{
-                color: black;
-                font: bold;
-                font-family: 'Times New Roman', Times, serif;
-                font-size: 100px;
-                text-align: center;
-                justify-content: center;
-                width: auto;
-                height: auto;
-                background-color: lightgreen;
-            }
-        </style>
-    </head>
-</html>
-
-<body class="mainpage">
-
-</body>
+<DOCTYPE>
+    <html lang="en">
+        <head>
+            <title>main page</title>
+            <style>
+                .mainpage{
+                    background-color: antiquewhite;
+                    color: black;
+                }
+                .headerText{
+                    color: black;
+                    font: bold;
+                    font-family: 'Times New Roman', Times, serif;
+                    font-size: 100px;
+                    text-align: center;
+                    justify-content: center;
+                    width: auto;
+                    height: auto;
+                    background-color: lightgreen;
+                }
+                .labels{
+                    color: black;
+                    font-size: 25px;
+                    text-align: center;
+                    justify-content: center;
+                    width: auto;
+                    height: auto;
+                }
+                .card{
+    
+                    height: 300px;
+                    width: 300px;
+                    background-color: lightskyblue;
+                    justify-content: center;
+                    margin-right: 100px;
+                    margin-left: 100px; 
+                    align-items: center;
+                    padding: 50px;
+                    font-size: 25px;
+    
+                }
+                .img{
+                    width: 200px;
+                    height: auto;
+                    
+                }
+                .spacing{
+                    position: relative;
+                    display: flex;
+                }
+            </style>
+        </head>
+        </html>
+    
+        <body class="mainpage">
+            <div class="headerText">the Game Viewer</div>
+            <div class="labels">need to contact someone? click Here!<!--here will link to page when it exists --></div>
+            <div class="spacing">
+            <div class="card">
+                breath of the wild
+                <img class="img" src="Botw case.jpg">
+            </div>
+            <div class="card">
+                Escape from tarkov
+                <img class="img" src="EFT png.jpg">
+            </div>
+            <div class="card">
+                Hades
+                <img class="img" src="Hades case.png">
+                </div>
+            </div>
+        </body>
+    
