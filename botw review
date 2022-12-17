@@ -3,4 +3,20 @@
     <head>
         <title>botw review</title>
         <style>
+            .title{
+                color: black;
+                font: bold;
+                font-family: 'Times New Roman', Times, serif;
+                font-size: 100px;
+                text-align: center;
+                justify-content: center;
+                width: auto;
+                height: auto;
+                background-color: lightgreen;
+            }
         </style>
+        </head>
+        </html>
+        </body>
+            <div class="title">Breath of the Wild review</div>
+        </body>
